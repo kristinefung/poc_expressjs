@@ -21,7 +21,7 @@ Express.js + TypeScript API using Prisma (MySQL), Zod validation, and dependency
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
+git clone https://github.com/kristinefung/poc_expressjs
 cd poc_expressjs
 ```
 
